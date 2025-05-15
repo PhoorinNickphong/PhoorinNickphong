@@ -56,4 +56,13 @@ src="https://img.shields.io/github/followers/PhoorinNickphong?logo=github&style=
 
 ### 📊 GitHub Stats
 
-![PhoorinNickphong's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoorinNickphong&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PhoorinNickphong&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="420"/>
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoorinNickphong&layout=compact&theme=dark&hide_border=true" width="420"/>
+
+</div>
+
+
